@@ -1,5 +1,4 @@
 - 👋 Hi, I’m divykumar
-- 👀 I’m interested in 
 - 🌱 I’m currently learning javascript and python and much more
 - 📫 How to reach me:- divymishra6356@gmail.com
 
