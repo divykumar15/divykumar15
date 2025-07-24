@@ -1,5 +1,5 @@
-- 👋 Hi, I’m divykumar
-- 🌱 I’m currently learning javascript and python and much more
+- 👋 Hi, I’m Divykumar
+- 🌱 Currently learning Blockchain and much more
 - 📫 How to reach me:- divymishra6356@gmail.com
 
 <!---
